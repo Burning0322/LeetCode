@@ -6,6 +6,7 @@ Learning LeetCode
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Burning0322/LeetCode/tree/master/0001-two-sum) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Burning0322/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Bit Manipulation
 |  |
@@ -19,4 +20,8 @@ Learning LeetCode
 |  |
 | ------- |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Burning0322/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Burning0322/LeetCode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
